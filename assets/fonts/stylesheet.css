@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Vickey';
+    src: url('VickeyRegular.eot');
+    src: url('VickeyRegular.eot?#iefix') format('embedded-opentype'),
+        url('VickeyRegular.woff2') format('woff2'),
+        url('VickeyRegular.woff') format('woff'),
+        url('VickeyRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
